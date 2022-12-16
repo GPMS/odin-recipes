@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color: green;
+    font-weight: 800;
+}
+
+.category {
+    color: red;
+    font-family: serif;
+    font-weight: bold;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+ol > li::marker {
+  font-weight: bold;
+}
