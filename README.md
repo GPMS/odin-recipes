@@ -13,3 +13,4 @@ all HTML skills learned in this section
  - Image with alternative text for better acessability
  - Multiple pages
  - Descriptive Git messages
+ - Basic CSS styling
